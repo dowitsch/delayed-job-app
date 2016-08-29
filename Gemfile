@@ -32,6 +32,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'delayed_job'
 gem 'daemon'
+gem 'delayed_job_active_record'
 
 
 group :development, :test do
