@@ -31,7 +31,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 gem 'delayed_job'
-gem 'daemon'
+gem 'daemons'
 gem 'delayed_job_active_record'
 
 
